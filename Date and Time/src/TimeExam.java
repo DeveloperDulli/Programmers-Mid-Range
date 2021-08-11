@@ -20,6 +20,7 @@ public class TimeExam {
 		
 		LocalDate theDate = timePoint.toLocalDate();
 		System.out.println(theDate);
+		
 		Month month = timePoint.getMonth();
 		System.out.println(timePoint.getMonthValue());
 		System.out.println(month.getValue());
