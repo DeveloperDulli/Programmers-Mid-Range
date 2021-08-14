@@ -14,3 +14,6 @@ public class LamdaExam {
 
 	}
 
+//람다식 문법
+// (매개변수 목록)->{실행문}
+
